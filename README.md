@@ -1,7 +1,6 @@
 # KoreaCodeFair-Item-pool
 
 
-### 한국코드페어에서 푼 인상적인 문제를 모아놓는 곳입니다.
+### 한국코드페어에서 푼 문제를 모아놓는 곳.
 
-
-### Save memorable problem from "Korea Code Fair"
+### Save problem from 'Korea Code Fair'.
